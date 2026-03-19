@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+  <rect width="960" height="540" fill="#0f1524"/>
+  <rect x="0" y="0" width="960" height="540" fill="none" stroke="#23304d" stroke-width="8"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-family="system-ui,Arial" font-size="40" fill="#7dd3fc">PDF Insight Bot</text>
+</svg>
